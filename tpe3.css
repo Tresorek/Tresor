@@ -1,0 +1,10 @@
+.icon-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.icon {
+  width: 20px;
+  margin-right: 8px;
+}
